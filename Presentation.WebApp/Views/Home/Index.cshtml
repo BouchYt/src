@@ -1,0 +1,29 @@
+﻿@{
+    ViewData["Title"] = "Home";
+}
+
+<canvas id="Chart"></canvas>
+
+@section scripts {
+  <script src="//cdn.jsdelivr.net/npm/chart.js@3.4.1/dist/chart.min.js" type="text/javascript" charset="utf-8"></script>
+
+  <script>
+    new Chart( //https://www.chartjs.org/
+      document.getElementById('Chart'),
+      {
+        type: 'doughnut',
+        data: {
+          labels: [ "Product 01", "Product  02" ],
+          datasets: [{
+            label: 'Por producto',
+            hoverOffset: 4, 
+            data: [ 75, 25 ]
+          }]
+        },
+        options: {
+          responsive: true, aspectRatio: 2, maintainAspectRatio: true
+        }
+      }
+    );
+  </script>
+}
