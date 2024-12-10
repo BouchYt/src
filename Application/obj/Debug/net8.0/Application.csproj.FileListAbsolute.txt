@@ -43,3 +43,4 @@ C:\Users\jairq\PracticasIMP\Proyecto_Final\src\Application\obj\Debug\net8.0\Appl
 C:\Users\jairq\PracticasIMP\Proyecto_Final\src\Application\obj\Debug\net8.0\refint\Application.dll
 C:\Users\jairq\PracticasIMP\Proyecto_Final\src\Application\obj\Debug\net8.0\Application.pdb
 C:\Users\jairq\PracticasIMP\Proyecto_Final\src\Application\obj\Debug\net8.0\ref\Application.dll
+C:\Users\jairq\PracticasIMP\Proyecto_Final\src\Application\obj\Debug\net8.0\Application.sourcelink.json

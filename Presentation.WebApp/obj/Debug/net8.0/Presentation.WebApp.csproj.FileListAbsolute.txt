@@ -220,3 +220,4 @@ C:\Users\jairq\PracticasIMP\Proyecto_Final\src\Presentation.WebApp\obj\Debug\net
 C:\Users\jairq\PracticasIMP\Proyecto_Final\src\Presentation.WebApp\obj\Debug\net8.0\Presentation.WebApp.pdb
 C:\Users\jairq\PracticasIMP\Proyecto_Final\src\Presentation.WebApp\obj\Debug\net8.0\Presentation.WebApp.genruntimeconfig.cache
 C:\Users\jairq\PracticasIMP\Proyecto_Final\src\Presentation.WebApp\obj\Debug\net8.0\ref\Presentation.WebApp.dll
+C:\Users\jairq\PracticasIMP\Proyecto_Final\src\Presentation.WebApp\obj\Debug\net8.0\Presentation.WebApp.sourcelink.json
